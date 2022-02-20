@@ -1,0 +1,16 @@
+.quotes--container {
+  display: flex;
+  flex: 1;
+}
+
+.quotes--section-form {
+    display: flex;
+    flex: 3;
+    align-content: center;
+    justify-content: center;
+}
+
+.quotes--section-ads {
+  display: flex;
+  flex: 1;
+}
